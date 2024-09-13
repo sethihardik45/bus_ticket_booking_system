@@ -79,6 +79,12 @@ A method from the `java.sql` package used to create precompiled SQL statements t
 - **Resetting the Form**:
   - Click the "Reset" button to clear all the input fields and start over.
 
+## Outputs
+![image](https://github.com/user-attachments/assets/d7016f49-f8cf-464c-b80a-f0a8ce077007)
+![image](https://github.com/user-attachments/assets/768ab6bf-c55b-4b2e-af12-30bcfb2134b6)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are encouraged and will be reviewed promptly.
