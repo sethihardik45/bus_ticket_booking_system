@@ -1,7 +1,3 @@
-Here's an impressive and detailed GitHub README for your Bus Ticket Booking System project:
-
----
-
 # Bus Ticket Booking System
 
 ## Introduction
@@ -87,9 +83,6 @@ A method from the `java.sql` package used to create precompiled SQL statements t
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are encouraged and will be reviewed promptly.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -97,6 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - JDBC for seamless database connectivity.
 - The open-source community for the continuous support and resources.
 
----
-
-Feel free to modify this README to fit your specific project needs!
